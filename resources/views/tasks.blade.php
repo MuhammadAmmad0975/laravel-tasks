@@ -32,7 +32,7 @@
                             <div class="col-sm-offset-3 col-sm-6">
                                 <button type="submit" class="btn btn-primary">
                                     <i class="fa fa-btn fa-plus"></i>Add Marks
-                                      <i class="fa fa-btn fa-plus"></i>Add Roll Number
+                                     
                                     
                                 </button>
                             </div>
